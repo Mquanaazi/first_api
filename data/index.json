@@ -1,0 +1,163 @@
+{
+    "AboutMe": "My name is Olwethu Brown and I am a student at Life Choices",
+    "Projects":[
+        {
+            "name": "Calculator",
+            "github":"https://github.com/Mquanaazi/calculator.git",
+            "vercel": "link",
+            "description":"I used ...to complete my functioning calculator",
+            "image":"url"
+
+        },
+        {
+            "name": "BMI Calculator",
+            "github":"https://github.com/Mquanaazi/calculator.git",
+            "vercel": "link",
+            "description":"I used ...to complete my functioning calculator",
+            "image":"url"
+
+        },
+        {
+            "name": "Time convertor",
+            "github":"https://github.com/Mquanaazi/calculator.git",
+            "vercel": "link",
+            "description":"I used ...to complete my functioning calculator",
+            "image":"url"
+
+        },
+        {
+            "name": "Temperature convertor",
+            "github":"https://github.com/Mquanaazi/calculator.git",
+            "vercel": "link",
+            "description":"I used ...to complete my functioning calculator",
+            "image":"url"
+
+        },
+        {
+            "name": "Table",
+            "github":"https://github.com/Mquanaazi/calculator.git",
+            "vercel": "link",
+            "description":"I used ...to complete my functioning calculator",
+            "image":"url"
+
+        },
+        {
+            "name": "age to days convertor",
+            "github":"https://github.com/Mquanaazi/calculator.git",
+            "vercel": "link",
+            "description":"I used ...to complete my functioning calculator",
+            "image":"url"
+
+        },
+        {
+            "name": "online shop",
+            "github":"https://github.com/Mquanaazi/MkhwanaziStore.git",
+            "vercel": "https://mkhwanazi-store.vercel.app/",
+            "description":"I used ...to complete my functioning calculator",
+            "image":"url"
+
+        },
+        {
+            "name": "interest calculator",
+            "github":"https://github.com/Mquanaazi/interestCalculator.git",
+            "vercel": "https://interest-calculator-beryl-chi.vercel.app/",
+            "description":"I used ...to complete my functioning calculator",
+            "image":"url"
+
+        }
+
+
+    ],
+    
+    "education":[
+        {
+        "description":"I attended high school(grade 8-12) at Aloe High School",
+        "year":"2015-2019",
+        "place of institution":"Aloe High School",
+        "contact":[
+            {
+                "name":"J Frencke",
+                "contactDetails":"08123456879"
+            }
+        ]
+        },
+        {
+        "description":"I studied Information Technology and Computer Science (NQF level 2-4) at FalseBay College",
+        "year":"2020-2022",
+        "place of institution":"FalseBay College,Fish Hoek Campus",
+        "contact":[
+            {
+                "name":"L Lekhanya",
+                "contactDetails":"06123456879"
+            }
+        ]
+        },
+        {
+        "description":"I studied IT at Northlink College and the had a 6 months intenship at that very same institution",
+        "year":"March 2023-April 2024",
+        "place of institution":"Northlink College,Tygerberg Campus",
+        "contact":[
+            {
+                "name":"s Karriem",
+                "contactDetails":"07423456879"
+            }
+        ]
+        },
+        {
+        "description":"I am a current student at life choices academy learning full stack software developer",
+        "year":"2nd April - present",
+        "place of institution":"Life choices Academy",
+        "contact":[
+            {
+                "name":"Matthew",
+                "contactDetails":"07123456879"
+            }
+        ]
+        }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "url":"HTML image"
+        },
+        {
+            "name":"IT Technician",
+            "url":"computer image"
+        },
+        {
+            "name":"JS",
+            "url":"JS image"
+        },
+        {
+            "name":"MYSQL",
+            "url":"MYSQL image"
+        },
+        {
+            "name":"CSS",
+            "url":"CSS image"
+        }
+    ],
+    "work-exp":[
+        {
+            "placeOfWork":"Northlink",
+            "year":"Oct 2023-April 2024",
+            "description":"IT tech intern",
+            "contact":[
+                {
+                    "name":"Saabiq Karriem",
+                    "cell":"074581846",
+                    "position":"Snr IT Tech "
+                    
+                }
+            ]
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"Jade Witbooi",
+            "position":"IT Tech Intern",
+            "message":"hello olwethu",
+            "image":""
+        }
+    ]
+}

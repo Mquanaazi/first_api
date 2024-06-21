@@ -4,16 +4,16 @@
         {
             "name": "Calculator",
             "github":"https://github.com/Mquanaazi/calculator.git",
-            "vercel": "link",
-            "description":"I used ...to complete my functioning calculator",
-            "image":"url"
+            "vercel": "https://calculator-psi-rosy.vercel.app/",
+            "description":"I used HTML, CSS, JavaScript and bootstrap to complete this project",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcuqZpxzUU47pk2cEyKSGy_S7CXBoAszF80A&s"
 
         },
         {
             "name": "BMI Calculator",
             "github":"https://github.com/Mquanaazi/calculator.git",
             "vercel": "link",
-            "description":"I used ...to complete my functioning calculator",
+            "description":"I used HTML, CSS, JavaScript and bootstrap to complete this project",
             "image":"url"
 
         },

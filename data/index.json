@@ -11,59 +11,59 @@
 
         },
         {
-            "name": "BMI Calculator",
-            "github":"https://github.com/Mquanaazi/calculator.git",
-            "vercel": "link",
-            "description":"I used HTML, CSS, JavaScript and bootstrap to complete this project",
-            "image":"url"
+            "name": "My first Portfolio",
+            "github":"https://github.com/Mquanaazi/olwethuMalumlaPortfolio.git",
+            "vercel": "https://olwethu-malumla-portfolio.vercel.app/",
+            "description":"I used HTML, CSS and bootstrap to complete this project",
+            "image":"https://codequotient.com/blog/wp-content/uploads/2023/04/Showcasing-Your-Web-Developer-Skills-Crafting-a-Portfolio-That-Packs-a-Punch.jpg"
 
         },
         {
             "name": "Time convertor",
-            "github":"https://github.com/Mquanaazi/calculator.git",
-            "vercel": "link",
-            "description":"I used ...to complete my functioning calculator",
-            "image":"url"
+            "github":"https://github.com/Mquanaazi/timeConverter.git",
+            "vercel": "https://time-converter-delta.vercel.app/",
+            "description":"I used HTML, CSS, JavaScript and bootstrap to complete this project",
+            "image":"https://mquanaazi.github.io/huluImages/myCalculator.png"
 
         },
         {
             "name": "Temperature convertor",
-            "github":"https://github.com/Mquanaazi/calculator.git",
-            "vercel": "link",
-            "description":"I used ...to complete my functioning calculator",
-            "image":"url"
+            "github":"https://github.com/Mquanaazi/temperature.git",
+            "vercel": "https://temperature-six-psi.vercel.app/",
+            "description":"I used HTML, CSS, JavaScript and bootstrap to complete this project",
+            "image":"https://mquanaazi.github.io/huluImages/temperatureConvertor.png"
 
         },
         {
             "name": "Table",
-            "github":"https://github.com/Mquanaazi/calculator.git",
-            "vercel": "link",
-            "description":"I used ...to complete my functioning calculator",
-            "image":"url"
+            "github":"https://github.com/Mquanaazi/wednesday.git",
+            "vercel": "https://wednesday-zeta-five.vercel.app/",
+            "description":"I used HTML, CSS and bootstrap to complete this project",
+            "image":"https://mquanaazi.github.io/huluImages/table.png"
 
         },
         {
             "name": "age to days convertor",
-            "github":"https://github.com/Mquanaazi/calculator.git",
-            "vercel": "link",
-            "description":"I used ...to complete my functioning calculator",
-            "image":"url"
+            "github":"https://github.com/Mquanaazi/agesToDays.git",
+            "vercel": "https://ages-to-days.vercel.app/",
+            "description":"I used HTML, JavaScript and bootstrap to complete this project",
+            "image":"https://mquanaazi.github.io/huluImages/ageCalculator.png"
 
         },
         {
             "name": "online shop",
             "github":"https://github.com/Mquanaazi/MkhwanaziStore.git",
             "vercel": "https://mkhwanazi-store.vercel.app/",
-            "description":"I used ...to complete my functioning calculator",
-            "image":"url"
+            "description":"I used HTML, CSS, JavaScript and bootstrap to complete this project",
+            "image":"https://mquanaazi.github.io/huluImages/myStore.png"
 
         },
         {
             "name": "interest calculator",
             "github":"https://github.com/Mquanaazi/interestCalculator.git",
             "vercel": "https://interest-calculator-beryl-chi.vercel.app/",
-            "description":"I used ...to complete my functioning calculator",
-            "image":"url"
+            "description":"I used HTML, JavaScript and bootstrap to complete this project",
+            "image":"https://mquanaazi.github.io/huluImages/interestCalculator.png"
 
         }
 
@@ -77,8 +77,9 @@
         "place of institution":"Aloe High School",
         "contact":[
             {
-                "name":"J Frencke",
-                "contactDetails":"08123456879"
+                "name":"Jody Frencke",
+                "contactDetails":"0800000009",
+                "position":"teacher"
             }
         ]
         },
@@ -88,8 +89,9 @@
         "place of institution":"FalseBay College,Fish Hoek Campus",
         "contact":[
             {
-                "name":"L Lekhanya",
-                "contactDetails":"06123456879"
+                "name":"Sello Lekhanya",
+                "contactDetails":"06123456879",
+                "position":"IT manager"
             }
         ]
         },
@@ -99,8 +101,9 @@
         "place of institution":"Northlink College,Tygerberg Campus",
         "contact":[
             {
-                "name":"s Karriem",
-                "contactDetails":"07423456879"
+                "name":"Gibson Arries",
+                "contactDetails":"0768386714",
+                "position":"A+ lecturer"
             }
         ]
         },
@@ -111,7 +114,8 @@
         "contact":[
             {
                 "name":"Matthew",
-                "contactDetails":"07123456879"
+                "contactDetails":"07123456879",
+                "position":"programming lecturer"
             }
         ]
         }
@@ -119,23 +123,23 @@
     "skills":[
         {
             "name":"HTML",
-            "url":"HTML image"
+            "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"
         },
         {
             "name":"IT Technician",
-            "url":"computer image"
+            "url":"https://scontent-cpt1-1.xx.fbcdn.net/v/t39.30808-6/406006700_1762236737558930_3931615679187897967_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHeFgxC9GV1P98YaIdaDIHj4NIdFo1S2STg0h0WjVLZJJVqqTvGrKIHR6AwI-9kRr56M2hHdcMbRyGmZ7h-ot_F&_nc_ohc=ZCvtJT9NRlIQ7kNvgF6FWhx&_nc_ht=scontent-cpt1-1.xx&oh=00_AYB8XpCbUac2iYrB2NM63WVWPaa2ncyYzPWLygzdAXg8aQ&oe=66831B84"
         },
         {
             "name":"JS",
-            "url":"JS image"
+            "url":"https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
         },
         {
             "name":"MYSQL",
-            "url":"MYSQL image"
+            "url":"https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png?20080127184102"
         },
         {
             "name":"CSS",
-            "url":"CSS image"
+            "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png?20210705212817"
         }
     ],
     "workExp":[
@@ -146,7 +150,7 @@
             "contact":[
                 {
                     "name":"Saabiq Karriem",
-                    "cell":"074581846",
+                    "cell":"0823072535",
                     "position":"Snr IT Tech "
                     
                 }
@@ -154,11 +158,66 @@
         }
     ],
     "testimonials":[
-        {
-            "name":"Jade Witbooi",
+        {   "id":"0000",
+            "firstName":"Jade ",
+            "lastName":"Witbooi",
+            "gender":"male",
+            "contactDetails":"0699215233",
             "position":"IT Tech Intern",
             "message":"hello olwethu",
-            "image":""
+            "profile":"https://w0.peakpx.com/wallpaper/540/201/HD-wallpaper-animae-bright-cool.jpg"
+        },
+        {
+            "id":"0001",
+            "firstName":"Inam",
+            "lastName":"Maqashalala",
+            "gender":"female",
+            "contactDetails":"0832161842",
+            "position":"civil engineering student",
+            "message":"hello olwethu",
+            "profile":"https://www.shutterstock.com/image-vector/baby-yoda-cute-mascot-vector-600nw-2351985607.jpg"
+        },
+        {
+            "id":"0010",
+            "firstName":"Asanda ",
+            "lastName":"Mehlo",
+            "gender":"female",
+            "contactDetails":"0606644494",
+            "position":"Software developement student",
+            "message":"hello olwethu",
+            "profile":"https://mquanaazi.github.io/huluImages/asanda.jpg"
+
+        },
+        {
+            "id":"0011",
+            "firstName":"Siphokuhle",
+            "lastName":"Nyana",
+            "gender":"female",
+            "contactDetails":"0832432798",
+            "position":"Software developement student",
+            "message":"hello olwethu",
+            "profile":"https://mquanaazi.github.io/huluImages/sphokuhle.jpg"
+        },
+        {
+            "id":"0101",
+            "firstName":"Candice",
+            "lastName":"Keet",
+            "gender":"female",
+            "contactDetails":"0813140839",
+            "position":"Software developement student",
+            "message":"hello olwethu",
+            "profile":"https://mquanaazi.github.io/huluImages/candice.jpg"
+            
+        },
+        {
+            "id":"1010",
+            "firstName":"Kayden",
+            "lastName":"Hendrics",
+            "gender":"male",
+            "contactDetails":"0719865973",
+            "position":"Software developement student",
+            "message":"hello olwethu",
+            "profile":"https://mquanaazi.github.io/huluImages/kayden.jpg"
         }
     ]
-    }
+}

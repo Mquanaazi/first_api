@@ -72,17 +72,49 @@
     
     "education":[
         {
-        "description":"I attended high school(grade 8-12) at Aloe High School",
-        "year":"2015-2019",
-        "place of institution":"Aloe High School",
+            "description":"I am a current student at life choices academy learning full stack software developer",
+            "year":"2nd April - present",
+            "place of institution":"Life choices Academy",
+            "contact":[
+                {
+                    "name":"Matthew",
+                    "contactDetails":"07123456879",
+                    "position":"programming lecturer"
+                }
+            ]
+            },
+          {
+        "description":"I studied PC TECHNICIAN AND NETWORK+ at Northlink College and the had a 6 months intenship at that very same institution",
+        "year":"March 2023-April 2024",
+        "place of institution":"Northlink College,Tygerberg Campus",
         "contact":[
             {
-                "name":"Jody Frencke",
-                "contactDetails":"0800000009",
-                "position":"teacher"
+                "name":"Gibson Arries",
+                "contactDetails":"0768386714",
+                "position":"A+ lecturer"
+            },
+            {
+                "name":"Geovani Frediricks",
+                "contactDetails":"0765930505",
+                "position":"N+ lecturer"
             }
         ]
         },
+        {
+            "description":"I studied CYBERSECURITY ESSENTIALS at Northlink College as an extra course while I was doing my practicals as a PC TECHNICIAN intern.",
+            "year":"January 2023-April 2024",
+            "place of institution":"Northlink College,Tygerberg Campus",
+            "contact":[
+                {
+                    "name":"Geovani Frediricks",
+                    "contactDetails":"0765930505",
+                    "position":"N+ lecturer"
+                }
+                ]
+
+           
+        },
+       
         {
         "description":"I studied Information Technology and Computer Science (NQF level 2-4) at FalseBay College",
         "year":"2020-2022",
@@ -92,35 +124,29 @@
                 "name":"Sello Lekhanya",
                 "contactDetails":"06123456879",
                 "position":"IT manager"
-            }
+            },
+            {"name":"Precious Makomichi",
+            "contactDetails":"0621373070",
+            "position":"SAD Lectuerer"}
         ]
         },
+      
         {
-        "description":"I studied IT at Northlink College and the had a 6 months intenship at that very same institution",
-        "year":"March 2023-April 2024",
-        "place of institution":"Northlink College,Tygerberg Campus",
-        "contact":[
-            {
-                "name":"Gibson Arries",
-                "contactDetails":"0768386714",
-                "position":"A+ lecturer"
+            "description":"I attended high school(grade 8-12) at Aloe High School",
+            "year":"2015-2019",
+            "place of institution":"Aloe High School",
+            "contact":[
+                {
+                    "name":"Jody Frencke",
+                    "contactDetails":"0800000009",
+                    "position":"teacher"
+                }
+            ]
             }
-        ]
-        },
-        {
-        "description":"I am a current student at life choices academy learning full stack software developer",
-        "year":"2nd April - present",
-        "place of institution":"Life choices Academy",
-        "contact":[
-            {
-                "name":"Matthew",
-                "contactDetails":"07123456879",
-                "position":"programming lecturer"
-            }
-        ]
-        }
+        
     ],
     "skills":[
+        
         {
             "name":"HTML",
             "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"
@@ -164,8 +190,8 @@
             "gender":"male",
             "contactDetails":"0699215233",
             "position":"IT Tech Intern",
-            "message":"hello olwethu",
-            "profile":"https://scontent-cpt1-1.xx.fbcdn.net/v/t39.3080 8-6/449413148_1905573806558555_3925291755466204829_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFdLfd0L9CC0vjVe-nmL6LIuG5kObD-LS64bmQ5sP4tLv3EJcT6F2XbtLutbsAdRZV8zF0BV79vl9Sh5xgnMnwM&_nc_ohc=U_HJgWBD0x4Q7kNvgFhn17V&_nc_ht=scontent-cpt1-1.xx&oh=00_AYCHN2fqTt-IjjJfwmcUz6o6Y9g6VCtcDgaQQxzPFBl4JA&oe=668322D9"
+            "message":"Olwethu is a dedicated and curious professional who consistently seeks opportunities to grow and improve. Her positive energy, exceptional work ethic, keen intellect, passion for learning and collaborative spirit make her a valuable asset to any team.",
+            "profile":"https://static.wikia.nocookie.net/p__/images/8/81/Goku_Super_Hero_Infobox.png/revision/latest?cb=20220220034848&path-prefix=protagonist"
         },
         {
             "id":"0001",
@@ -174,7 +200,7 @@
             "gender":"female",
             "contactDetails":"0832161842",
             "position":"civil engineering student",
-            "message":"hello olwethu",
+            "message":"Olwethu's willingness to take on challenges and ask questions is truly admirable. Her inquisitive nature not only benefits her own learning but also fosters a culture of clarity and understanding among her peers.",
             "profile":"https://www.shutterstock.com/image-vector/baby-yoda-cute-mascot-vector-600nw-2351985607.jpg"
         },
         {
@@ -184,7 +210,7 @@
             "gender":"female",
             "contactDetails":"0606644494",
             "position":"Software developement student",
-            "message":"hello olwethu",
+            "message":"I really like how Olwethu isn’ t afraid of challenges and always wants to learn more. Her habit of asking questions not only benefits her own learning journey but also encourages others to seek clarity and understanding.",
             "profile":"https://mquanaazi.github.io/huluImages/asanda.jpg"
 
         },
@@ -195,7 +221,7 @@
             "gender":"female",
             "contactDetails":"0832432798",
             "position":"Software developement student",
-            "message":"hello olwethu",
+            "message":"I  have had the pleasure of working alongside Olwethu Malumla for quite some time now, and I must say their dedication and work ethic are truly inspiring. She consistently goes above and beyond in every task they undertake, demonstrating not only their expertise but also their passion for their work.Their positive attitude and willingness to help others make them a valuable asset to our team. It's a privilege to work with someone as talented and reliable as Olwethu.",
             "profile":"https://mquanaazi.github.io/huluImages/sphokuhle.jpg"
         },
         {
@@ -205,7 +231,7 @@
             "gender":"female",
             "contactDetails":"0813140839",
             "position":"Software developement student",
-            "message":"hello olwethu",
+            "message":"In the short amount of time I've known Olwethu, I've seen how smart, hardworking, funny as well as playful she is. Olwethu has a way of charming people, she makes you feel at peace with her presence and can be quite a comforting person. It's been a pleasure knowing her and still getting to know her. She has grown so much since the first day of us learning and I'm excited to see how much she will still grow. Her hardwork and dedication towards coding always amazes me because she never gives up even when she hits a wall, she overcomes that challenge and continues moving on with a smile on her face. ",
             "profile":"https://mquanaazi.github.io/huluImages/candice.jpg"
             
         },
@@ -216,7 +242,7 @@
             "gender":"male",
             "contactDetails":"0719865973",
             "position":"Software developement student",
-            "message":"hello olwethu",
+            "message":"Working alongside Olweth has been an absolute pleasure. Their dedication to their work is truly inspiring. She consistently goes above and beyond to ensure that tasks are completed with excellence and attention to detail. Olwethu is not only reliable but also proactive in finding solutions and contributing fresh ideas to our projects. Their positive attitude and willingness to support the team make her an invaluable asset. I have no doubt that Olwethu will continue to excel in their endeavors and positively impact any team they are a part of.",
             "profile":"https://mquanaazi.github.io/huluImages/kayden.jpg"
         }
     ]

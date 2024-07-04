@@ -185,6 +185,16 @@
             "url":"https://media.licdn.com/dms/image/D4D12AQEaYeTlXZT9Uw/article-cover_image-shrink_720_1280/0/1683211311890?e=2147483647&v=beta&t=Z6LT3FZm5fe0wA88_g2t_feojrPar8ilXJN26QJhooA"
         }
     ],
+    
+    "skill":[
+       { "Resilience":"I refuse to let set backs disturb my goals.",
+        "Continuous Learning":"I am commited to a lifelong learning process and professional development, with a strong desire to stay up-to-date with industry trends.",
+        "Effective Communication":"",
+        "Adaptability":"",
+        "Problem-Solving":"",
+        "Emotional Intelligence":"I never allow my emotions to take control of me."
+    }
+    ],
     "workExp":[
         {
             "placeOfWork":"Northlink",

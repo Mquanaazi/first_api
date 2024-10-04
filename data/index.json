@@ -72,8 +72,21 @@
     
     "education":[
         {
-            "description":"I am a current student at life choices academy learning full stack software developer",
-            "year":"2nd April - present",
+            "description":"I am an intern at Life Choices Studio currently going through my first learning jouney which is networking ",
+            "year":"25 Sept 2024 - Present",
+            "place of institution":"Life choices Studio",
+            "contact":[
+                {
+                    "name":"Darron Gelderbloom",
+                    "contactDetails":"darron@lifechoices.co.za",
+                    "position":"programme Manager"
+                }
+            ],
+            "image":"https://media.licdn.com/dms/image/C4D0BAQF81UYyi2QGrg/company-logo_200_200/0/1630505581427?e=2147483647&v=beta&t=V5BOqKnnWLhApo6yJ-5i5nAy2NWM6G0aBmNFZ3ItLEg"
+            },
+        {
+            "description":"I studied Full stak software development at Life Choices ",
+            "year":"02 April 2024 - 20 September 2024",
             "place of institution":"Life choices Academy",
             "contact":[
                 {

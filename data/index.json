@@ -7,7 +7,7 @@
             "github":"https://github.com/Mquanaazi/ezatrans.git",
             "vercel": "https://ezatrans-olwethus-projects-77b06004.vercel.app/",
             "description":"This is my first personal project outside of school work. I am still working on this project because I want it to be one of my best, showcasing my full-stack skills.",
-            "image":"https://github.com/Mquanaazi/ezaexpress.png"
+            "image":"https://mquanaazi.github.io/huluImages/ezaexpress.png"
 
         },
         {
@@ -15,24 +15,15 @@
             "github":"https://www.figma.com/design/DZFSQGqGTybLYed90pPePh/Untitled?node-id=0-1&node-type=canvas&t=UGFUfucTCQ59WXat-0",
             "vercel": "NOT APPLICABLE",
             "description":"This was my first project completed as part of a team. I was responsible for the logo and the wireframe.",
-            "image":"https://github.com/Mquanaazi/uiuxdesign.png"
+            "image":"https://mquanaazi.github.io/huluImages/uiuxdesign.png"
 
         },
-       
         {
             "name": "product Development",
             "github":"https://www.figma.com/design/LY00QHMR81s4Vw8NqBzdHD/Untitled?node-id=0-1&node-type=canvas&t=Yk9wazzUMeioHkwt-0",
             "vercel": "NOT APPLICABLE",
             "description":"This was part of a hackathon where my team and I had to design an app from scratch. The app needed to allow users to make online purchases and have their items delivered if they desired.",
-            "image":"https://github.com/Mquanaazi/snap'ngrilldesign.png"
-
-        },
-        {
-            "name": "Calculator",
-            "github":"https://github.com/Mquanaazi/calculator.git",
-            "vercel": "https://calculator-psi-rosy.vercel.app/",
-            "description":"I used HTML, CSS, JavaScript and bootstrap to complete this project",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcuqZpxzUU47pk2cEyKSGy_S7CXBoAszF80A&s"
+            "image":"https://mquanaazi.github.io/huluImages/snap'ngrilldesign.png"
 
         },
         {
@@ -40,7 +31,15 @@
             "github":"https://github.com/Mquanaazi/first_api.git",
             "vercel": "NOT APPLICABLE",
             "description":"This is the JSON data i am using for my portfolio",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcuqZpxzUU47pk2cEyKSGy_S7CXBoAszF80A&s"
+            "image":"https://mquanaazi.github.io/huluImages/notapplicable.jpg"
+
+        },
+        {
+            "name": "Calculator",
+            "github":"https://github.com/Mquanaazi/calculator.git",
+            "vercel": "https://calculator-psi-rosy.vercel.app/",
+            "description":"I used HTML, CSS, JavaScript and bootstrap to complete this project",
+            "image":" https://github.com/Mquanaazi/huluImages/notapplicable.jpg"
 
         },
         {

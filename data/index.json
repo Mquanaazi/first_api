@@ -3,10 +3,43 @@
     "aboutMe": "My name is Olwethu Malumla and I am grateful for your interest in my portfolio. Thank you for viewing my work and considering me for potential opportunities. As a full stack developer, I have expertise in both front-end and back-end development, with proficiency in languages like visual basic,MySQL,CSS and Java Script. My strengths lie in problem-solving, debugging, and team collaboration, which have enabled me to deliver high-quality solutions and collaborate effectively with teams. I'm passionate about staying up-to-date with industry trends and exploring new technologies to continuously improve my skills. I'm excited about the opportunity to join your respected company and contribute my skills and experience to drive innovation and success. I seek challenging opportunities where I can fully use my skills for the progress of the organization to obtain entry level position in this field and utilize the theoretical and pratical education I’ve obtained so far. I am highly driven, I have great communication skills, I bring an environment that encourages others and that allows me to grow.Improving my skills, experiences and capabilities is my everyday job.",
     "Projects":[
         {
+            "name": "eza express",
+            "github":"https://github.com/Mquanaazi/ezatrans.git",
+            "vercel": "https://ezatrans-olwethus-projects-77b06004.vercel.app/",
+            "description":"This is my first personal project outside of school work. I am still working on this project because I want it to be one of my best, showcasing my full-stack skills.",
+            "image":"https://github.com/Mquanaazi/ezaexpress.png"
+
+        },
+        {
+            "name": "UI/UX design",
+            "github":"https://www.figma.com/design/DZFSQGqGTybLYed90pPePh/Untitled?node-id=0-1&node-type=canvas&t=UGFUfucTCQ59WXat-0",
+            "vercel": "NOT APPLICABLE",
+            "description":"This was my first project completed as part of a team. I was responsible for the logo and the wireframe.",
+            "image":"https://github.com/Mquanaazi/uiuxdesign.png"
+
+        },
+       
+        {
+            "name": "product Development",
+            "github":"https://www.figma.com/design/LY00QHMR81s4Vw8NqBzdHD/Untitled?node-id=0-1&node-type=canvas&t=Yk9wazzUMeioHkwt-0",
+            "vercel": "NOT APPLICABLE",
+            "description":"This was part of a hackathon where my team and I had to design an app from scratch. The app needed to allow users to make online purchases and have their items delivered if they desired.",
+            "image":"https://github.com/Mquanaazi/snap'ngrilldesign.png"
+
+        },
+        {
             "name": "Calculator",
             "github":"https://github.com/Mquanaazi/calculator.git",
             "vercel": "https://calculator-psi-rosy.vercel.app/",
             "description":"I used HTML, CSS, JavaScript and bootstrap to complete this project",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcuqZpxzUU47pk2cEyKSGy_S7CXBoAszF80A&s"
+
+        },
+        {
+            "name": "API",
+            "github":"https://github.com/Mquanaazi/first_api.git",
+            "vercel": "NOT APPLICABLE",
+            "description":"This is the JSON data i am using for my portfolio",
             "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcuqZpxzUU47pk2cEyKSGy_S7CXBoAszF80A&s"
 
         },
